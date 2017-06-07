@@ -1,0 +1,3 @@
+import("fBasics","lawstat","powerAnalysis","BaylorEdPsych")
+importFrom("stats", "bartlett.test", "quantile")
+export(assumption.test, effect.size, cohens.f)

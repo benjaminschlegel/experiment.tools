@@ -1,0 +1,16 @@
+Package: experiment.tools
+Type: Package
+Title: Tools for Experiments
+Version: 0.0-1
+Date: 2017-06-07
+Author: Benjamin Schlegel [aut,cre]
+Maintainer: Benjamin Schlegel <kontakt@benjaminschlegel.ch>
+Description: Tools to conduct and analyse experiments with ANOVA.
+License: GPL (>=2)
+Depends: R (>= 3.1.0)
+Imports:
+	fBasics,
+	lawstat,
+	powerAnalysis,
+	BaylorEdPsych
+URL: https://benjaminschlegel.ch/r/experiment.tools/
