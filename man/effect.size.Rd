@@ -20,7 +20,7 @@ the ANOVA-Object created with aov()
   The function calculates the Cohen's f, Eta^2 and Omega^2 for interpreting the effect size of the experiment.
 }
 \value{
-  The output is the three effect sizes Cohen's f, Eta^2 and Omega^2.
+  The output are the three effect sizes Cohen's f, Eta^2 and Omega^2.
 }
 
 \author{

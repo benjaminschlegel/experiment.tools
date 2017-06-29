@@ -17,7 +17,7 @@ the ANOVA-Object created with aov()
 }
 }
 \details{
-  The function calculates the Cohen's f. the function is a wrapper for ES.anova.oneway of the package powerAnalysis.
+  The function calculates the Cohen's f.
 }
 \value{
   The output is the effect sizes Cohen's f.
